@@ -13,9 +13,4 @@ ZippGo is a fast, responsive ride-booking platform built for the Indian market. 
 ## 🛠 Tech Stack
 React • HTML5 • CSS3 • TailwindCSS
 
-## 🚀 Run Locally
-bash
-git clone https://github.com/your-username/zippgo.git
-cd zippgo/frontend
-yarn install
-yarn dev
+
